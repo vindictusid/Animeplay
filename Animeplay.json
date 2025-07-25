@@ -7,6 +7,13 @@
     "allowOffline": true
   },
   {
+    "id": "6150d9cb0a940310",
+    "username": "6283874029633",
+    "password": "AnimePlay",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
