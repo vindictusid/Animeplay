@@ -308,6 +308,27 @@
     "allowOffline": true
   },
   {
+    "id": "23ebadf64e6a3d1c",
+    "username": "6285245772684",
+    "password": "AnimePlay",
+    "expiresAt": "2025-08-30",
+    "allowOffline": true
+  },
+  {
+    "id": "03ff20eaa63c9b98",
+    "username": "6285697015560",
+    "password": "AnimePlay",
+    "expiresAt": "2025-08-30",
+    "allowOffline": true
+  },
+  {
+    "id": "14917ee17675f5c2",
+    "username": "6283129532946",
+    "password": "AnimePlay",
+    "expiresAt": "2025-08-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
